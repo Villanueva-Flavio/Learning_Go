@@ -27,6 +27,10 @@ func esPalindromo(palabra string) bool {
 	return palabra == palabraInvertida
 }
 
+func imprimir_texto() {
+	fmt.Println("Hola mundo")
+}
+
 func main() {
 
 	if esPalindromo("oso") {
@@ -35,4 +39,5 @@ func main() {
 		fmt.Println("No es palindromo")
 	}
 
+	imprimir_texto()
 }
