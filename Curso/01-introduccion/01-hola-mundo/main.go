@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hola desde otro archivo")
+	fmt.Println("Hola Mundo") // Siempre hay que usar fmt.?
 }

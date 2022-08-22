@@ -15,7 +15,7 @@ func main() {
 	fmt.Println(numeros[4])
 
 	//Arrays con valores
-	nombres := [3]string{"Alex", "Roel", "Juan"}
+	nombres := [3]string{"Flavio", "Tomas", "Juan"}
 
 	fmt.Println(nombres)
 

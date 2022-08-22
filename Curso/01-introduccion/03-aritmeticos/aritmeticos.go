@@ -6,26 +6,15 @@ func main() {
 	a := 20
 	b := 10
 
-	//Suma
-	result := a + b
-	fmt.Println("Suma:", result)
+	fmt.Println("Suma:", a + b)
 
-	//Resta
-	result = a - b
-	fmt.Println("Resta:", result)
+	fmt.Println("Resta:", a - b)
 
-	//Multiplicación
-	result = a * b
-	fmt.Println("Multi:", result)
+	fmt.Println("Multi:", a * b)
 
-	//División
-	result = a / b
-	fmt.Println("División:", result)
+	fmt.Println("División:", a / b)
 
-	var div float64 = 3.0 / 2.0
-	fmt.Println("División:", div)
+	fmt.Println("División:", 3.0 / 2.0)
 
-	//Modulo
-	result = 3 % 2
-	fmt.Println("Modulo:", result)
+	fmt.Println("Modulo:", 3 % 2)
 }

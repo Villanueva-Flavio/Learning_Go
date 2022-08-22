@@ -12,7 +12,7 @@ func sumar(a, b int) int {
 }
 
 func main() {
-	saludar("Alex")
+	saludar("Flavio")
 	r := sumar(10, 20)
 	fmt.Println("La suma es: ", r)
 }

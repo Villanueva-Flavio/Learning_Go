@@ -9,7 +9,7 @@ func main() {
 	fmt.Println(hola)
 	fmt.Println(mundo)
 
-	nombre := "Alex"
+	nombre := "Flavio"
 	edad := 26
 
 	fmt.Printf("Hola, %s y su edad es %d \n", nombre, edad)
